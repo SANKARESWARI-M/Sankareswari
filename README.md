@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sankareswari</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on **Institution Placement Data management System**
+## 🛠 Tech Stack  
+- **Languages:** C, Java, Python  
+- **Web Development:** HTML, CSS, JavaScript, MERN Stack  
+- **Databases:** MYSQL, PostgreSQL, Firebase  
+- **UI/UX:** Figma
+
+- 🔭 I’m currently working on the project **Institution Placement Data management System**
 
 - 🌱 I’m currently learning **React**
 
